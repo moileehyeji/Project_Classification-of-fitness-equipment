@@ -1,6 +1,6 @@
 # Classification-of-fitness-equipment
 
-+ 운동기기 이미지 분류 프로그램
++ 운동기구 이미지 분류 프로그램
 
 + [ "dumbbell","gymball","ladderbarrel","runningmachine","yogamat"] 다섯가지 운동기구 이미지를 분류한다.
 
