@@ -22,7 +22,4 @@
 
 
 
-# Presentation
-:file_folder: PDF링크
 
- <file:///C:/Users/moile/Downloads/%EC%9A%B4%EB%8F%99%EA%B8%B0%EA%B5%AC%EB%B6%84%EB%A5%98%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pptx.pdf>
